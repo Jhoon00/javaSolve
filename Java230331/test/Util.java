@@ -1,4 +1,4 @@
-package Java230331;
+package Java230331.test;
 
 public class Util {
     public static void selectionSort(int[] values) {

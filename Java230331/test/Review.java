@@ -1,4 +1,4 @@
-package Java230331;
+package Java230331.test;
 
 class Person {
     void speak() {

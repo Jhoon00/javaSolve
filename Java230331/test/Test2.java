@@ -1,4 +1,4 @@
-package Java230331;
+package Java230331.test;
 
 import java.util.Random;
 

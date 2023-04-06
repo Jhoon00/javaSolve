@@ -1,5 +1,7 @@
 package Java230331;
 
+import Java230331.test.Shape;
+
 public class Rectangle extends Shape {
     private int width;
 
